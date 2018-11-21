@@ -496,3 +496,12 @@ tr td p {
 	color: #000000;
 	background-color: #005883;
 }
+#video iframe{
+
+	text-align: center;
+	margin: 0 auto;
+    padding-top: 40px;
+    width: 500px;
+    height: 400px;
+
+}
